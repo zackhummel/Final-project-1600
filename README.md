@@ -1,4 +1,4 @@
-The importance of a Central Processing Unit.
-Author: Zack Hummel
+The importance of a Central Processing Unit. <br>  
+Author: Zack Hummel <br>  
 [Description](Description.md)
 
